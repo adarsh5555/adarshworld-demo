@@ -1,3 +1,3 @@
 # adarshworld-demo
-Exploring git repositories
+Exploring git repositories.
 Author: Adarsh Gowda- **Expert Java Backend Developer **
